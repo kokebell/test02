@@ -19,6 +19,7 @@ public class sample01 {
 		System.out.println("名前は、みつまめ、くろまめ、こけまるです！");
 		System.out.println("２羽ではなくて、３羽でした笑");
 		System.out.println("インコかわいいよ");
+		System.out.println("インコかわいいよ");
 		
 
 	}
