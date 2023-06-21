@@ -11,7 +11,7 @@ public class sample01 {
 		System.out.println("吉岡です！");
 		System.out.println("なるほど～良いね！");
 		System.out.println("具体的にはどんな機能や画面が必要になりそう？");
-		
+		System.out.println("インコの話が消えちゃったかも…");
 		
 
 	}
