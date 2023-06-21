@@ -11,6 +11,11 @@ public class sample01 {
 		System.out.println("吉岡だよ！");
 		System.out.println("確認しました。吉岡");
 		System.out.println("確認しました。吉岡");
+		
+		
+		System.out.println("確認しました。中田");
+		System.out.println("私の家にはインコが２羽います！");
+		
 
 	}
 
