@@ -8,9 +8,12 @@ public class sample01 {
 		System.out.print("ペアプログラミングのアイデアなんだけど、本郷さんが地域別の日本酒紹介サイトを作ったみたいで");
 		System.out.println("それの旅行版を作れたら面白そうだなって思った！");
 
-		System.out.println("吉岡だよ！");
-		System.out.println("確認しました。吉岡");
-		System.out.println("確認しました。吉岡");
+		System.out.println("吉岡です！");
+		System.out.println("なるほど～良いね！");
+		System.out.println("具体的にはどんな機能や画面が必要になりそう？");
+		
+		System.out.println("インコの話が消えちゃったかも…");
+		System.out.println("また明日からよろしくお願いします！！");
 		
 		
 		System.out.println("確認しました。中田");
@@ -20,6 +23,8 @@ public class sample01 {
 		System.out.println("２羽ではなくて、３羽でした笑");
 		System.out.println("インコかわいいよ");
 		System.out.println("インコかわいいよ");
+		
+		System.out.println("かわいいね！");
 		
 
 	}
