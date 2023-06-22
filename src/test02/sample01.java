@@ -15,6 +15,15 @@ public class sample01 {
 		System.out.println("インコの話が消えちゃったかも…");
 		System.out.println("また明日からよろしくお願いします！！");
 		
+		
+		System.out.println("確認しました。中田");
+		System.out.println("私の家にはインコが２羽います！");
+		
+		System.out.println("名前は、みつまめ、くろまめ、こけまるです！");
+		System.out.println("２羽ではなくて、３羽でした笑");
+		System.out.println("インコかわいいよ");
+		System.out.println("インコかわいいよ");
+		
 
 	}
 
