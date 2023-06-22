@@ -24,6 +24,8 @@ public class sample01 {
 		System.out.println("インコかわいいよ");
 		System.out.println("インコかわいいよ");
 		
+		System.out.println("かわいいね！");
+		
 
 	}
 
