@@ -25,6 +25,7 @@ public class sample01 {
 		System.out.println("インコかわいいよ");
 		
 		System.out.println("かわいいね！");
+		System.out.println("吉岡くんは何かペット飼ってるの？");
 		
 
 	}
